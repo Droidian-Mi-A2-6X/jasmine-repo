@@ -1,0 +1,17 @@
+Codename: bookworm
+Date: Mon, 26 Jun 2023 04:05:42 UTC
+Architectures: arm64
+Components: main
+Description: Adaptation packages repository for jasmine
+MD5Sum:
+ 9d8349a789a741317ce4a8ccb796737c 1236 main/binary-arm64/Packages
+ 1d056032623a769cc0223fcb63e03727 557 main/binary-arm64/Packages.gz
+ cc81a6e255e1ed473311d0a02b505dd0 92 main/binary-arm64/Release
+SHA1:
+ 253f43e7dd03a7edfa327781474a317b919ffcb1 1236 main/binary-arm64/Packages
+ c91eb43cbd122a32b77962b0392579c209b12c72 557 main/binary-arm64/Packages.gz
+ 07222b664993d8903bc366408effe4beac807511 92 main/binary-arm64/Release
+SHA256:
+ 6b60bf79d0255399ffb8d864b1f7557c78871ddf8097f9dabaca89998d2ceb10 1236 main/binary-arm64/Packages
+ c3cceff468144797d806512dcb737cece9f0bf56388eb0208af18e5bcfd64df9 557 main/binary-arm64/Packages.gz
+ 4ad16300cf2a3e2a99ace4bb678c6977da0f37d980a3a39c9188520a28f9e154 92 main/binary-arm64/Release

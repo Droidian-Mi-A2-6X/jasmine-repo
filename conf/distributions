@@ -1,0 +1,4 @@
+Codename: bookworm
+Architectures: arm64
+Components: main
+Description: Adaptation packages repository for jasmine

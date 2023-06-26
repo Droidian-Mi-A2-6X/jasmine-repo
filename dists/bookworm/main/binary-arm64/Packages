@@ -1,0 +1,32 @@
+Package: adaptation-droidian-jasmine
+Version: 0.0.0+git2023032529318330.124b1d0.main
+Architecture: all
+Maintainer: Shoko
+Installed-Size: 9
+Depends: adaptation-hybris-api28-phone, adaptation-jasmine-configs, batman, dialog, flatpak, seahorse
+Priority: 0
+Section: utils
+Filename: pool/main/a/adaptation-droidian-jasmine/adaptation-droidian-jasmine_0.0.0+git2023032529318330.124b1d0.main_all.deb
+Size: 2128
+SHA256: cdec9e2fe1ea052f1e312aae3ef0fabf07f8b83a2c62ced69079ebf1cd910b13
+SHA1: 288e7015090c2453cf39efa6a7f72842b539bf6c
+MD5sum: 7cafb690c41374d330c76f47aaa3c961
+Description: adapatation-jasmine-meta
+ jasmine api28 adaptation metapackage
+
+Package: adaptation-jasmine-configs
+Source: adaptation-droidian-jasmine
+Version: 0.0.0+git2023032529318330.124b1d0.main
+Architecture: all
+Maintainer: Shoko
+Installed-Size: 67
+Depends: dconf-gsettings-backend | gsettings-backend
+Priority: 0
+Section: utils
+Filename: pool/main/a/adaptation-droidian-jasmine/adaptation-jasmine-configs_0.0.0+git2023032529318330.124b1d0.main_all.deb
+Size: 6820
+SHA256: 70e7c727dbd69773367ca7899f95beb616f1674ec6c1bab2aad0f9b0288006cb
+SHA1: 1d640fccf9f6e994bb24fc2cb4662fdd42414670
+MD5sum: 91d8dc9a1684923b866d677bb419784a
+Description: jasmine's adaptation configs
+
